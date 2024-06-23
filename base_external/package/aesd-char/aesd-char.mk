@@ -4,14 +4,19 @@
 # AESD-ASSIGNMENTS
 #
 ##############################################################
+
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_CHAR_VERSION = '4cafa57d9c2dc5e52060993b3b1536878b4cc017'
+AESD_CHAR_VERSION = 'd6322f46a55c567a8e03946f1b801b90ca14a2df'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-AESD_CHAR_SITE = 'ggit@github.com:cu-ecen-aeld/assignments-3-and-later-jaeseolee0307.git'
+AESD_CHAR_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-wangmengj.git'
 AESD_CHAR_SITE_METHOD = git
 AESD_CHAR_GIT_SUBMODULES = YES
+
+#AESD_CHAR_SITE = '/home/wangmengj/Coursera/assignment-1-wangmengj'
+#AESD_CHAR_SITE_METHOD = local
+
 
 AESD_CHAR_LICENSE = Dual BSD/GPL
 #AESD_CHAR_LICENSE_FILES = COPYING
