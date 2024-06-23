@@ -1,5 +1,5 @@
 config BR2_PACKAGE_AESDCHAR
-	bool "AESDCHAR"
+	bool "aesd-char"
 	depends on BR2_LINUX_KERNEL
 	help
 	  aesdchar package for assignment 8
