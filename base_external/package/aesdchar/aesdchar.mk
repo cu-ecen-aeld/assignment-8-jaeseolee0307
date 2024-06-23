@@ -16,5 +16,6 @@ AESDCHAR_GIT_SUBMODULES = YES
 
 AESDCHAR_MODULE_SUBDIRS = aesd-char-driver
 
+
 $(eval $(kernel-module))
 $(eval $(generic-package))
