@@ -4,7 +4,6 @@
 # AESD-ASSIGNMENTS
 #
 ##############################################################
-
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
 AESD_CHAR_VERSION = '243082087cff02b7bee1d68d4b7ef981079c9a1f'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
