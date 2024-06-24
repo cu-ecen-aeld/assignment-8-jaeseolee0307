@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = '403eea6acb92727841f8319ce0666ac18e16760b'
+AESD_ASSIGNMENTS_VERSION = '375d3d5e2bd065beef703e9167a7d2b1784d18b2'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
@@ -14,13 +14,6 @@ AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-jae
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
-<<<<<<< HEAD
-=======
-#AESD_ASSIGNMENTS_SITE = '/home/wangmengj/Coursera/assignment-1-wangmengj'
-#AESD_ASSIGNMENTS_SITE_METHOD = local
-
-
->>>>>>> parent of 0355a66 (test)
 define AESD_ASSIGNMENTS_BUILD_CMDS
 	$(MAKE) $(TARGET_CONFIGURE_OPTS) -C $(@D)/finder-app all
 	$(MAKE) $(TARGET_CONFIGURE_OPTS) -C $(@D)/server all
